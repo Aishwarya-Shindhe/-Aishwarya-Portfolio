@@ -75,8 +75,7 @@ Relevant Coursework: **Data Analysis, Visualization, Statistical Methods, SQL, P
 🔗 **LinkedIn:** [Aishwarya M](https://www.linkedin.com/in/aishwarya-m-727999296)  
 🐱 **GitHub:** [Aishwarya-Shindhe](https://github.com/Aishwarya-Shindhe)  
 📊 **Kaggle:** [Aishwarya's Kaggle Profile](https://www.kaggle.com/aishwaryashindhe)  
-🌐 **Portfolio Website:** C:/Users/Admin/Downloads/aishwarya_portfolio.html#contact 
-
+🌐 **Portfolio Website:** aishwarya_portfolio.html
 ---
 
 🚀 *"Transforming data into insights, insights into decisions, and decisions into success!"*
